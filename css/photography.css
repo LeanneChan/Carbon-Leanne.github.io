@@ -6,3 +6,16 @@
 .brandlist{
 	font-family: "Bebas Neue", Arial;
 }
+
+.customimage{
+	max-width: 100%
+}
+
+.japanimage{
+	max-width: 100%
+}
+
+.photoblock {
+	border: 10px;
+	border-color: brown;
+}
