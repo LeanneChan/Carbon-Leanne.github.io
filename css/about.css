@@ -6,11 +6,19 @@
 	font-size: 20px;
 }
 
-.progress-food::-webkit-progress-value {
-	background-image: url(http://www.cookingclassy.com/wp-content/uploads/2014/07/jimmie-sprinkles+srgb..jpg);
+.tennis-bar{
+	background-image: url(https://i.ebayimg.com/images/g/vykAAOSwv9FXg1U2/s-l640.jpg);
 }
 
-.progress-sleep::-webkit-progress-value {
+.eat-bar{
+	background-image: url(http://i732.photobucket.com/albums/ww324/131313559sleepy/money1.gif);
+}
+
+.plants-bar{
+	background-image: url(https://media.giphy.com/media/OEFt8MCFffcwU/giphy.gif);
+}
+
+.photo-bar {
 	background-image: url(https://s-media-cache-ak0.pinimg.com/236x/9f/49/7c/9f497c4de89e1d50c5cabb54e3033edd.jpg);
 }
 
@@ -43,13 +51,7 @@
 		color: #35465;
 }
 
-.progress-money::-webkit-progress-value {
-	background-image: url(http://i732.photobucket.com/albums/ww324/131313559sleepy/money1.gif);
-}
 
-.progress-shop::-webkit-progress-value {
-	background-image: url(https://media.giphy.com/media/OEFt8MCFffcwU/giphy.gif);
-}
 
 .progress-hippie::-webkit-progress-value {
 	background-image: url(http://s3.amazonaws.com/spoonflower/public/design_thumbnails/0318/7695/rrRainbow_Smiley_Hippie_Pattern_preview.png);
@@ -58,12 +60,15 @@
 .mylist{
 	font-family: "Bebas Neue", Arial;
 	font-size: 20px;
+	display: inline;
+	padding: 10px 30px;
 
 }
 
 .brandlist{
 	font-family: "Bebas Neue", Arial;
-	font-size: 20px;
+	font-size: 50px;
+	padding: 10px 30px;
 }
 
 .name {
@@ -74,6 +79,7 @@
 .classphoto {
 	border-color: black;
 	max-width: 100%;
+	padding-bottom: 5%;
 }
 
 .updates {
@@ -81,6 +87,10 @@
 	margin-top: 10px;
 	font-family: "Bebas Neue", Arial;
 	font-size: 40px;
+}
+
+li{
+	 margin-right: 40px;
 }
 
 
