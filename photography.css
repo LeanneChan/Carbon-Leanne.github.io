@@ -1,0 +1,31 @@
+.mylist{
+	font-family: "Bebas Neue", Arial;
+	font-size: 20px;
+	display: inline;
+	padding: 10px 30px;
+	list-style: none;
+  	margin: 0 2px;
+}
+
+.brandlist{
+	font-family: "Bebas Neue", Arial;
+	font-size: 50px;
+	padding: 10px 30px;
+}
+
+.customimage{
+	max-width: 100%
+}
+
+.japanimage{
+	max-width: 100%
+}
+
+.photoblock {
+	border: 10px;
+	border-color: brown;
+}
+
+li{
+	 margin-right: 40px;
+}
