@@ -29,6 +29,10 @@
 
 .dj {
 	max-width: 50%;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 20px;
 }
 
 .hb {
@@ -38,9 +42,7 @@
 .myiconclass {
 		color: red;
 }
-.myiconclass2 {
-		color: #3b5998;
-}
+
 .myiconclass3 {
 		color: #fcaf45;
 }
@@ -93,4 +95,7 @@ li{
 	 margin-right: 40px;
 }
 
-
+.btn-photos{
+	background-color: green;
+	color: white;
+}
